@@ -1,0 +1,3 @@
+Hola.
+Esta es mi primera práctica usando Git
+Integrantes: Peter Lozano 
