@@ -1,3 +1,6 @@
 Hola.
-Esta es mi primera práctica usando Git
-Peter Lozano 
+Esta es mi primera práctica usando
+Integrantes:
+Peter Lozano
+Lady  Mite
+Anthony Del Valle
